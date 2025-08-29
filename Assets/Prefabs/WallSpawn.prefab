@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4947697014646635166}
   - component: {fileID: 7345685045077223768}
   - component: {fileID: 9205463236066779891}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WallSpawn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
