@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class WinManager : MonoBehaviour
 {
-    public void ReturnToMenù()
+    public void ReturnToMenu()
     {
         SceneManager.LoadScene(0);
     }
